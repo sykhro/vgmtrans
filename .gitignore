@@ -34,6 +34,9 @@ bld/
 # Roslyn cache directories
 *.ide/
 
+# qtcreator
+.cmake
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*

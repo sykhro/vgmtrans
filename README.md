@@ -1,7 +1,7 @@
 
 # VGMTrans-qt - Video Game Music Translator
 
-[![Build Status](https://travis-ci.org/sykhro/vgmtrans-qt.svg?branch=refactor)](https://travis-ci.org/sykhro/vgmtrans-qt) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/sykhro/vgmtrans-qt?branch=refactor&svg=true)](https://ci.appveyor.com/project/sykhro/vgmtrans-qt)
+![Build and test](https://github.com/sykhro/vgmtrans-qt/workflows/Build%20and%20test/badge.svg?branch=refactor)
 
 <p align="center">
 <img height="512" src="https://raw.githubusercontent.com/sykhro/vgmtrans-qt/refactor/.github/prev.png"><br>
@@ -10,7 +10,7 @@
 VGMTrans-qt is an experimental friendly fork of VGMTrans that aims to modernize and clean the codebase with the final intent of making the tool more robust and extendable.
 Format support is the same as upstream, but VGMTrans-qt is available cross-platform.
 
-The latest build is always available for Linux (AppImage), OSX and Windows [here](https://github.com/sykhro/vgmtrans-qt/releases/tag/continuous-refactor).
+The latest build is always available for Linux (AppImage), OSX and Windows as GitHub Actions artifacts [here](https://github.com/sykhro/vgmtrans-qt/actions).
 Compiling instructions are available [in the wiki](https://github.com/sykhro/vgmtrans-qt/wiki/Building).
 
 This software is released under the zlib/libpng License. See LICENSE.txt for details.
