@@ -1,6 +1,8 @@
 
 # VGMTrans-qt - Video Game Music Translator
 
+[**Please refer to the refactor branch upstream, this is just for testing and might be outdated**](https://github.com/vgmtrans/vgmtrans/tree/refactor)
+
 ![Build and test](https://github.com/sykhro/vgmtrans-qt/workflows/Build%20and%20test/badge.svg?branch=refactor)
 
 <p align="center">
